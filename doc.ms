@@ -1,7 +1,44 @@
+.RP no
+.P1
 .TL
-Electric Guitar Playing Manual
+Electric Guitar
 .AU
 Ray Garner
+.XS 1
+Playing Techniques
+.XA 1
+    Flat Picking
+.XA 1
+    Finger Style
+.XA 2
+    Hybrid Picking
+.XA 2
+    Legato
+.XA 2
+    Vibrato
+.XA 2
+    Pitch Bends
+.XA 2
+    Palm Muting
+.XA 2
+Guitar Textures
+.XA 2
+    Single Note Melodies
+.XA 2
+    Chords
+.XA 2
+    Chord Melodies
+.XA 2
+Fundamental Theory
+.XA 2
+    The Major Scale
+.XA 2
+    The Blues
+.XE
+.B1
+.PX
+.B2
+.2C
 .NH 1
 Playing Techniques
 .NH 2 
@@ -32,7 +69,7 @@ lines to be played.
 This technique is perhaps most clearly demonstrated by the playing of
 .B "Yngwie Malmsteen" .
 Strict picking can sometimes provide a more consistent rhythmic feel to a melody, thanks to the fact that all down strokes will be at least somewhat naturally emphasised (in terms of volume and tone).
-This principle is put into practice clearly by
+This principle is put into practice most clearly by the acoustic guitar playing of
 .B "Molly Tuttle" .
 .PP
 Neither technique is better or worse than the other, and it is worth experimenting thoroughly with both so that you can call upon either one when appropriate to do so.
@@ -41,8 +78,7 @@ One distinct virtue of the flat pick is that it allows for speedy single note le
 .I shredding .
 Shredding
 is implemented by 
-.B "Al Di Meola"
-,
+.B "Al Di Meola" ,
 .B "Guthrie Govan"
 and
 .B "Eric Johnson"
@@ -57,28 +93,55 @@ This can be done with an up stroke or a down stroke, which means that you can pl
 Interleaved into the rhythmic pattern of the chord playing can be percussive 
 .I muted
 notes.
-Created by reducing the pressure applied to a string by the left fingertips (but still just touching the string), muted notes have no real pitch and when played when played with other muted notes via strumming just create a sort-of `ch' sound.
+Created by reducing the pressure applied to a string by the left fingertips (but still just touching the string), muted notes have no real pitch and when played with other muted notes via strumming just create a sort-of `ch' sound.
 You will know what I mean if you listen to the rhythm playing of
 .B "Nile Rodgers"
 since he employs this technique a lot.
+.PP
+The flat pick also facilitates
+.I "tremolo picking" .
+This is where a guitarist is constantly, consistently and repeatedly picking the notes at an extremely high frequency.
+Due to the high speed requirements, the only way to do this would be by always alternating up strokes and down strokes when on one string and using economy picking when switching strings.
+This is how
+.B "Dick Dale"
+achieves his iconic sound.
 .NH 2 
 Finger Style
 .PP
 Playing
 .I "finger style"
-means plucking the guitar strings with nothing other than your right hand finger tips/nails.
+means plucking the guitar strings with your right hand finger tips/nails.
 Typically, finger style guitarists will maximise efficiency by assigning one finger to one string as much as possible (obviously this is impossible to maintain 100% of the time unless you have 6 digits on your right hand).
 .PP
 Finger style guitar mainly operates on the basis of resting each of your four fingers slightly beneath each string (but still touching) and plucking it by pulling your fingertip upwards towards your body.
 The finger nail, finger tip or a combination of both can be used to strike the string in order to achieve different timbres from the guitar.
-In addition to using your four fingers, you can also use your thumb to strike play a note with a downstroke in a similar fashion which you would if you were using a flat pick.
+In addition to using your four fingers, you can also use your thumb to play a note with a downstroke in a similar fashion which you would if you were using a flat pick.
 .PP
 Some players like
 .B "Chet Atkins"
 choose to use a 
-.I "thumb-pick"
-: a special kind of guitar pick which slots onto your thumb and has an excursion perpendicular to the long edge of your thumb.
+.I "thumb-pick" : 
+a special kind of guitar pick which slots onto your thumb and has an excursion perpendicular to the long edge of your thumb.
 Using a thumb-pick feels and sounds more like a flat pick than just using your bare thumb does.
+.PP
+If you are a finger style guitarist and pick with the flesh of your finger tips (if you have short nails) then you will produce a more `mellow' and `warm' sound.
+This evident in the playing of
+.B "Ted Greene" ;
+he picks using the flesh on his fingers and his tone has a distinctly rich and warm quality to it.
+In contrast to this, playing with your nails instead will create a more `bright' and `twangy' sound.
+For example, 
+.B "Lenny Breau" 
+plays a similar style to Ted but he uses more nail in his picking so has a more bright sound.
+Remember that it is not the case that you must play with either entirely nail or entirely flesh;
+most players use a combination of some ratio of the two where they are striking the string with some flesh first and nail right afterwards in the same motion.
+.PP
+Ted and Lenny both have rather
+.I chordal
+styles (see chapter 2), but many classical and flamenco guitarists (who tend to use nails more often) demonstrate that demanding single note lead lines can be played accurately and precisely with a finger style technique.
+Two virtuoso proponents of this style are 
+.B "Matteo Mancuso"
+and
+.B "Paco de Lucia" .
 .NH 2
 Hybrid Picking
 .NH 2
