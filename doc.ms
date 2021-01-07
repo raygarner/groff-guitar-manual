@@ -2,9 +2,6 @@
 Electric Guitar Playing Manual
 .AU
 Ray Garner
-.AB
-This document is intended to be a sort-of `reference manual' for novice players and should help expose them to new things which can be done on the electric guitar. Guitarists are referenced throughout, but obviously there are thousands more which I haven't mentioned who are just as capable, innovative and expressive.
-.AE
 .NH 1
 Playing Techniques
 .NH 2 
@@ -50,8 +47,38 @@ is implemented by
 and
 .B "Eric Johnson"
 in their own characteristic ways.
+.PP
+When it comes to playing chords the flat pick provides a good degree of versatility.
+Chords can be
+.I strummed
+by playing the relevant strings together in one stroke.
+This can be done with an up stroke or a down stroke, which means that you can play chords in interesting rhythmic patterns without too much difficulty.
+.PP
+Interleaved into the rhythmic pattern of the chord playing can be percussive 
+.I muted
+notes.
+Created by reducing the pressure applied to a string by the left fingertips (but still just touching the string), muted notes have no real pitch and when played when played with other muted notes via strumming just create a sort-of `ch' sound.
+You will know what I mean if you listen to the rhythm playing of
+.B "Nile Rodgers"
+since he employs this technique a lot.
 .NH 2 
 Finger Style
+.PP
+Playing
+.I "finger style"
+means plucking the guitar strings with nothing other than your right hand finger tips/nails.
+Typically, finger style guitarists will maximise efficiency by assigning one finger to one string as much as possible (obviously this is impossible to maintain 100% of the time unless you have 6 digits on your right hand).
+.PP
+Finger style guitar mainly operates on the basis of resting each of your four fingers slightly beneath each string (but still touching) and plucking it by pulling your fingertip upwards towards your body.
+The finger nail, finger tip or a combination of both can be used to strike the string in order to achieve different timbres from the guitar.
+In addition to using your four fingers, you can also use your thumb to strike play a note with a downstroke in a similar fashion which you would if you were using a flat pick.
+.PP
+Some players like
+.B "Chet Atkins"
+choose to use a 
+.I "thumb-pick"
+: a special kind of guitar pick which slots onto your thumb and has an excursion perpendicular to the long edge of your thumb.
+Using a thumb-pick feels and sounds more like a flat pick than just using your bare thumb does.
 .NH 2
 Hybrid Picking
 .NH 2
@@ -62,6 +89,8 @@ Harmonics
 Vibrato
 .NH 2
 Pitch Bends
+.NH 2
+Palm Muting
 .NH 1
 Guitar Textures
 .NH 2

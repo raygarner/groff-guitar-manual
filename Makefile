@@ -1,2 +1,5 @@
+TITLE=doc
+FILE=$(TITLE).ms
+
 all: doc.ms
-	groff -ms doc.ms -T pdf > doc.pdf
+	refer -p ~/Documents/ref/bib $(FILE) | groff -ms -T pdf > doc.pdf
