@@ -107,7 +107,7 @@ Due to the high speed requirements, the only way to do this would be by always a
 This is how
 .B "Dick Dale"
 achieves his iconic sound.
-.PSPIC -C img/dickdale.eps 2.8i
+.PSPIC -C img/dickdale.eps 2.4i
 .NH 2 
 Finger Style
 .PP
