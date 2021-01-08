@@ -1,4 +1,5 @@
 .RP no
+.nr PS 12
 .P1
 .TL
 Electric Guitar
@@ -105,7 +106,7 @@ Due to the high speed requirements, the only way to do this would be by always a
 This is how
 .B "Dick Dale"
 achieves his iconic sound.
-.PSPIC -C img/dickdale.eps 2i
+.PSPIC -C img/dickdale.eps 2.8i
 .NH 2 
 Finger Style
 .PP
@@ -148,7 +149,7 @@ One of the main advantages that finger picking provides is that it is relatively
 .I arpeggiate 
 chords- that is to play the notes of the chord in sequence one after the other instead of playing them all at the same time.
 Unlike with flat picking, skipping strings requires no extra effort when arpeggating chords because you should already have a finger ready to pluck any strings you intend to use in advance.
-.PSPIC -C img/lenny.eps 2i
+.PSPIC -C img/lenny.eps 2.8i
 .NH 2
 Hybrid Picking
 .PP
