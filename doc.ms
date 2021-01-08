@@ -105,6 +105,7 @@ Due to the high speed requirements, the only way to do this would be by always a
 This is how
 .B "Dick Dale"
 achieves his iconic sound.
+.PSPIC -C img/dickdale.eps 2i
 .NH 2 
 Finger Style
 .PP
@@ -142,8 +143,18 @@ Two virtuoso proponents of this style are
 .B "Matteo Mancuso"
 and
 .B "Paco de Lucia" .
+.PP
+One of the main advantages that finger picking provides is that it is relatively easy to
+.I arpeggiate 
+chords- that is to play the notes of the chord in sequence one after the other instead of playing them all at the same time.
+Unlike with flat picking, skipping strings requires no extra effort when arpeggating chords because you should already have a finger ready to pluck any strings you intend to use in advance.
+.PSPIC -C img/lenny.eps 2i
 .NH 2
 Hybrid Picking
+.PP
+.I "Hybrid picking"
+is a combination of flat picking and finger picking.
+It involves the guitarist holding a flat pick normally between the thumb and first finger and plucking strings with the remaining 3 free fingers on their right hand.
 .NH 2
 Legato
 .NH 2
