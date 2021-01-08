@@ -1,5 +1,6 @@
 .RP no
-.nr PS 12
+.nr PS 12 \" point size
+.nr FM 0.25i \"footer margin
 .P1
 .TL
 Electric Guitar
@@ -38,7 +39,7 @@ Fundamental Theory
 .XE
 .B1
 .PX
-.B2
+.B2\".MC 2.9i
 .2C
 .NH 1
 Playing Techniques
