@@ -7,13 +7,13 @@
 Electric Guitar
 .AU
 Ray Garner
-.XS 1
+.XS 2
 Playing Techniques
-.XA 1
-    Flat Picking
-.XA 1
-    Finger Style
 .XA 2
+    Flat Picking
+.XA 3
+    Finger Style
+.XA 4
     Hybrid Picking
 .XA 2
     Legato
