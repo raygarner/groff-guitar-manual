@@ -2,7 +2,7 @@
 .nr HY 0 \" no hyphenation
 .nr PS 12 \" point size
 .nr FM 0.25i \"footer margin
-.P1
+\".P1
 .TL
 Electric Guitar
 .AU
