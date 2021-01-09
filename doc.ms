@@ -1,4 +1,5 @@
 .RP no
+.nr HY 0 \" no hyphenation
 .nr PS 12 \" point size
 .nr FM 0.25i \"footer margin
 .P1
@@ -37,9 +38,11 @@ Fundamental Theory
 .XA 2
     The Blues
 .XE
+\"9\*{th\*} January 2021
 .B1
 .PX
 .B2\".MC 2.9i
+.bp
 .2C
 .NH 1
 Playing Techniques
@@ -150,7 +153,7 @@ One of the main advantages that finger picking provides is that it is relatively
 .I arpeggiate 
 chords- that is to play the notes of the chord in sequence one after the other instead of playing them all at the same time.
 Unlike with flat picking, skipping strings requires no extra effort when arpeggating chords because you should already have a finger ready to pluck any strings you intend to use in advance.
-.PSPIC -C img/lenny.eps 2.8i
+.PSPIC -C img/lenny.eps 2.4i
 .NH 2
 Hybrid Picking
 .PP
