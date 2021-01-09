@@ -160,6 +160,12 @@ Hybrid Picking
 .I "Hybrid picking"
 is a combination of flat picking and finger picking.
 It involves the guitarist holding a flat pick normally between the thumb and first finger and plucking strings with the remaining 3 free fingers on their right hand.
+.PP
+You will see this technique used much less than the other aforementioned picking techniques, but that doesn't mean that it's not without merit.
+In my opinion, the main advantage you get from playing with a hybrid picking style is that you can quickly switch between flat picking styles and finger picking styles without needing to physically pick up or drop the guitar pick in the process.
+.PP
+.B "Jerry Donahue"
+demonstrates the effectiveness of hybrid picking with his arpeggio Ted chordal style (although he did in fact later switch to using a thumb pick).
 .NH 2
 Legato
 .NH 2
