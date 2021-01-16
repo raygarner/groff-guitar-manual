@@ -159,7 +159,7 @@ Hybrid Picking
 .PP
 .I "Hybrid picking"
 is a combination of flat picking and finger picking.
-It involves the guitarist holding a flat pick normally between the thumb and first finger and plucking strings with the remaining 3 free fingers on their right hand.
+It involves the guitarist holding a flat pick normally between the thumb and first finger and plucking strings with the remaining three free fingers on their right hand.
 .PP
 You will see this technique used much less than the other aforementioned picking techniques, but that doesn't mean that it's not without merit.
 In my opinion, the main advantage you get from playing with a hybrid picking style is that you can quickly switch between flat picking styles and finger picking styles without needing to physically pick up or drop the guitar pick in the process.
@@ -168,6 +168,29 @@ In my opinion, the main advantage you get from playing with a hybrid picking sty
 demonstrates the effectiveness of hybrid picking with his arpeggio Ted chordal style (although he did in fact later switch to using a thumb pick).
 .NH 2
 Legato
+.PP
+Playing
+.I legato
+means to play notes on the guitar without actually plucking the strings with your right hand.
+Instead, you play what are known as
+.I "hammer-ons"
+and
+.I "pull-offs"
+with your fretting hand.
+.PP
+Hammer-ons can be applied when you are going to play a higher pitched note that is on the same string and can be performed by hammering your fingertip onto the fretboard at the desired fret with speed and force.
+When performed correctly, the note should sound clear but with less `bite' and a little less volume than that when you pluck the strings with your right hand in some way.
+.PP
+Going downwards in pitch is when pull-offs can be applied.
+To perform a pull off, you pluck the string with the fingertip that is currently holding down a note as you are releasing it from the fretboard to activate a note which is being fretted below that on the same string.
+.PP
+The effect that is created when these techniques are used is that melody lines sound more `smooth' and `light'.
+They also allow for extremely fast melodic lines to be played with much less effort than picking the same line.
+.B "Guthrie Govan"
+will interleave speedy legato passages into his solos to add variation and excitement and
+.B "Allan Holdsworth"
+will use legato lines to imitate the more `airy' sound of a woodwind instrument with his guitar tone.
+
 .NH 2
 Harmonics
 .NH 2
@@ -188,5 +211,7 @@ Chord Melodies
 Fundamental Theory
 .NH 2
 The Major Scale
+.NH 2
+Diatonic Chords
 .NH 2
 The Blues
