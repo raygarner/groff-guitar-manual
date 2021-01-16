@@ -190,9 +190,29 @@ They also allow for extremely fast melodic lines to be played with much less eff
 will interleave speedy legato passages into his solos to add variation and excitement and
 .B "Allan Holdsworth"
 will use legato lines to imitate the more `airy' sound of a woodwind instrument with his guitar tone.
-
+.PSPIC -C img/allan.eps 2.4i
 .NH 2
 Harmonics
+.PP
+When you mute a string in the right place and pluck it, it can create what is known as a
+.I harmonic .
+Muting the string an octave (12 frets) above the fretted note will produce a `glassy' sound with a pitch an octave above the fretted note.
+.PP
+For example, if you are playing an open string then you can lightly touch the same string above the 12\*{th\*} fret with a finger on your fretting hand and immediately release it as you pluck the string.
+If you don't release your muting finger fast enough then you will mute the sound of the harmonic and lose it, but if you let go too early then you will just end up with the sound of the normal open string being played.
+.PP
+Using the same principle you can play any note as a harmonic by muting the string 12 frets above with your picking hand and pluck the string with the same hand.
+This leaves the fretting hand to fret any note desired on the fretboard.
+There are a few different ways you can implement this technique, but the way I found most natural was to mute with my index finger tip and pluck the string at the same time with my thumbnail on the same hand.
+Some players like 
+.B "Ted Greene"
+and
+.B "Lenny Breau"
+prefer to mute using the index or middle finger and pluck the string using the third or little finger on the same hand.
+.PP
+Both of these players are true masters of this technique and put it to amazing use by combing harmonics and regular notes in chords and arpeggios.
+You can see how mixing harmonics and regular notes in a chord could greatly expand its range and allow for potentially more interesting and expressive intervals to be played.
+.PSPIC -C img/ted.eps 2.8i
 .NH 2
 Vibrato
 .NH 2
