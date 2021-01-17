@@ -215,6 +215,28 @@ You can see how mixing harmonics and regular notes in a chord could greatly expa
 .PSPIC -C img/ted.eps 2.8i
 .NH 2
 Vibrato
+.PP
+.I Vibrato
+is where you repeatedly lightly alter the pitch of a note while it is being held.
+The pitch difference is not enough that it sounds like a different note altogether and is used to add `expression' to a note- it adds another layer of character depth to the note.
+Usually on the guitar, you apply vibrato to a note by bending the string slightly up and down to alter the pitch and reset it at a given rate.
+The string is bent by using your fretting hand like a lever and pushing the string so that it slides on the fretboard on one fret with your finger tip.
+.PP
+This technique can be used to create different kinds of effect:
+.B "Yngwie Malmsteen"
+uses very prominent and vibrato with a large pitch change to create romance and drama in the music whereas
+.B "Allan Holdsworth"
+frequently  uses strong vibrato with a slow rate to create an eerie and sometimes unsettling sound.
+.PP
+A lot of the time
+.B "Ted Greene"
+would add vibrato with a different technique:
+he would physically bend the neck of the guitar in order to stretch the strings, raising the pitch.
+To do this, you anchor the body of the guitar against your body with the forearm attached to your picking hand and pull back the neck with your fretting hand while still fretting notes.
+To my knowledge, this technique can only really be done effectively on guitars with a bolt-on neck.
+Ted would do this a lot when playing chords because it is much easier (once you get the hang of it) than trying to synchronously bend all of the strings making up the notes of the chord the conventional way.
+Ted's vibrato gave his chords a beautifully `rich' and `warm' quality. 
+.PSPIC -C img/yngwie.eps 2i
 .NH 2
 Pitch Bends
 .NH 2
