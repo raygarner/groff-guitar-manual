@@ -239,8 +239,30 @@ Ted's vibrato gave his chords a beautifully `rich' and `warm' quality.
 .PSPIC -C img/yngwie.eps 2i
 .NH 2
 Pitch Bends
-.NH 2
-Palm Muting
+.PP
+As mentioned with vibrato, the pitch of a fretted note on the guitar can be altered by bending the sting on the fretboard.
+More specifically, the pitch is raised because you are stretching (tightening) the string by doing this.
+.I "Pitch bends"
+are where you take advantage of this by bending the string enough so that the pitch of the note is raised enough so that it sounds like an entirely different note altogether.
+The sound of pitch bending on the guitar is characteristic because you pluck the string before you have bent it so that the sound of the pitch being raised to the new note can be heard as you bend the string.
+It is very similar to a sliding
+.I glissando
+effect.
+.PP
+Probably the most common pitch bends are when players do it to make the note's pitch raise by one tone (2 frets).
+The typical way to bend a guitar string this is much is to fret the note using your third finger and also apply pressure using your first and second fingers behind the note on the fretboard.
+You can then use a rotational motion with your wrist to bend the string with minimal effort providing that you have a solid connection with the string.
+.PP
+You will hear a lot of pitch bends from players who have a `bluesy' style.
+This association has likely come about since the string bending style was influenced by the sound of blues
+.I "slide guitar"
+players.
+.PP
+One iconic player who helped popularise pitch bending on the guitar is
+.B "Jimi Hendrix" .
+Partly due to his use of string bending, his playing had a bluesy sound but he clearly demonstrated that these blues techniques can be seamlessly transferred into more rock and psychedelic styles.
+Nowadays, pitch bending on the electric guitar can be found in many different styles of music.
+.PSPIC -C img/jimi.eps 2.8i
 .NH 1
 Guitar Textures
 .NH 2
