@@ -47,6 +47,8 @@ Fundamental Theory
 .NH 1
 Playing Techniques
 .PP
+Playing techniques are ways in which you can manipulate the sound created by the guitar.
+This section will discuss a few of the most useful ones.
 .NH 2 
 Flat Picking
 .PP
@@ -266,8 +268,20 @@ Nowadays, pitch bending on the electric guitar can be found in many different st
 .PSPIC -C img/jimi.eps 2.8i
 .NH 1
 Guitar Textures
+.PP
+.I Texture
+refers to the way in which multiple `voices' interact (or whether there are even multiple voices at all).
+This section will describe some of the key textures which can be demonstrated on a guitar.
 .NH 2
 Single Note Melodies
+.PP
+The most elemental way to play music on the guitar is by playing a sequence of single notes to form a melody.
+This is the guitar equivalent of a solo vocalist performing since they can only sing at one pitch at any given time.
+It is rare that you will hear a guitar playing just single note melodies with no accompaniment, but single note melodies are common when playing in a band as guitar solos or any kind of repeating melody.
+Solos are a staple in jazz and blues and they are normally improvised (see chapter 3).
+.PP
+As well as from melody, single note lines heavily depend up on the player using interesting and engaging rhythms in order to make the part sound musically satisfying.
+Single note lines are a environment for rhythm and melody to exist in.
 .NH 2
 Chords
 .NH 2
