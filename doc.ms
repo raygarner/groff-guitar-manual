@@ -46,6 +46,7 @@ Fundamental Theory
 .2C
 .NH 1
 Playing Techniques
+.PP
 .NH 2 
 Flat Picking
 .PP
@@ -249,7 +250,7 @@ It is very similar to a sliding
 .I glissando
 effect.
 .PP
-Probably the most common pitch bends are when players do it to make the note's pitch raise by one tone (2 frets).
+Probably the most common pitch bends are when players do it to make the note's pitch raise by one tone (two frets).
 The typical way to bend a guitar string this is much is to fret the note using your third finger and also apply pressure using your first and second fingers behind the note on the fretboard.
 You can then use a rotational motion with your wrist to bend the string with minimal effort providing that you have a solid connection with the string.
 .PP
