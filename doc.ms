@@ -281,9 +281,39 @@ It is rare that you will hear a guitar playing just single note melodies with no
 Solos are a staple in jazz and blues and they are normally improvised (see chapter 3).
 .PP
 As well as from melody, single note lines heavily depend up on the player using interesting and engaging rhythms in order to make the part sound musically satisfying.
-Single note lines are a environment for rhythm and melody to exist in.
+Single note lines are a environment for 
+.I rhythm 
+and 
+.I melody 
+to exist in.
+.PP
+On the electric guitar, single note melodies are most often performed using a flat pick due to the degree of versatility and precision it offers. 
+However, you should definitely use whatever playing technique sounds and feels best to you.
 .NH 2
 Chords
+.PP
+A
+.I chord
+is formed when multiple notes of different pitches are played together at the same time.
+Generally, when people refer to just `playing chords' on the guitar they mean using the guitar as a medium for
+.I harmony
+and 
+.I rhythm ,
+with little to no regard for melody.
+This is because playing chords in this way is most often used to accompany a vocalist who will be singing the main melody which a listeners ear is drawn too.
+Playing chords with no engaging melodic content does not lend it-self to solo performance, since for the majority of listeners it is the melody which resonates with them.
+.PP
+Chords on the guitar are implemented by fretting notes on different strings and playing them at the same time, either by strumming (with or without a pick) or plucking with fingers.
+Since normal guitars have only 6 strings, chords are limited to 6 notes or less.
+However, you can
+.I imply
+extra notes by omitting the right notes, or playing the right sequence of chords.
+.PP
+Playing
+.I "broken chords"
+means to pluck the notes of the chord in a sequence (instead of all at the same time).
+This can add extra melodic interest since there is now a line for a listener to latch onto, but (like anything) you should only do it if the music calls for it.
+Finger-style playing lends its-self nicely to playing broken chords since you can assign a finger to each note of the chord, but it can be done just fine with a flat pick too.
 .NH 2
 Chord Melodies
 .NH 1
