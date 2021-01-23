@@ -353,8 +353,22 @@ It can also act as a framework to help you create your own music, whether it's c
 .NH 2
 The Major Scale
 .PP
-The major scale is a definition of the intervals between seven notes (the eighth being the same as the first except an octave higher).
-The essence of the major scale is best demonstrated to an unfamiliar listener by playing the notes of scale in ascending order and then descending order (going up and down the scale).
+The major scale is a definition of the intervals between seven repeating notes (the eighth being the same as the first except an octave higher).
+The essence of the major scale is best demonstrated to an unfamiliar listener by playing the notes of the scale in ascending order and then descending order (going up and down the scale):
+.PSPIC -C img/tabs/cmajorscale.eps 2.8i
+.PP
+The
+.I tablature
+above shows how to play a C major scale on the guitar; the horizontal lines represent the strings of the guitar as labelled on the left and the numbers on each string represent the fret of the note which should be played.
+Each note should be played one after the other.
+.PP
+The reason that this is a C major scale is because the 8\*{th\*} fret on the E string is a C note, the 10\*{th\*} fret on the D string is a C note and because the intervals between the sequence of notes are as follows: tone, tone, semitone, tone, tone, tone, semitone.
+On the guitar, a 
+.I tone
+interval means a gap of two frets and a 
+.I semitone
+interval means a gap of one fret.
+It is this specific combination of intervals which defines the distinct character of the major scale.
 .NH 2
 Diatonic Chords
 .NH 2
