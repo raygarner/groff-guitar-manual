@@ -36,6 +36,10 @@ Fundamental Theory
 .XA 2
     The Major Scale
 .XA 2
+    Modes of the Major Scale
+.XA 2
+    Diatonic Chords
+.XA 2
     The Blues
 .XE
 \"9\*{th\*} January 2021
@@ -369,6 +373,21 @@ interval means a gap of two frets and a
 .I semitone
 interval means a gap of one fret.
 It is this specific combination of intervals which defines the distinct character of the major scale.
+.PP
+A
+.I "key signature"
+of a piece of music refers to the type of scale (in this case a major scale) and the root note.
+The most important note of any scale is the first, also known as the 
+.I root
+(in the key of C major, C is the root note).
+This is the note which is most prominent to a listener, and also the note which other notes will pull towards because there is the least tension in the sound when it is the root note being heard.
+Of course, for these concepts to be true the
+.I key
+must be established by sufficiently exposing the listener the notes and intervals which the melody is based upon.
+.PP
+It should be noted that even though musicians will use terms like `first', `second' and `third' when referring to notes in a scale that the seven notes of the major scale repeat for ever and have no start or end (although you could consider it ending when the pitch leaves human hearing range).
+.NH 2
+Modes of the Major Scale
 .NH 2
 Diatonic Chords
 .NH 2
