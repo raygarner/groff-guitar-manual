@@ -4,7 +4,7 @@
 .nr FM 0.25i \"footer margin
 \".P1
 .TL
-Electric Guitar
+Introduction to Electric Guitar
 .AU
 Ray Garner
 .XS 2
@@ -347,8 +347,14 @@ and
 .B "Chet Atkins" .
 .NH 1
 Fundamental Theory
+.PP
+Music theory, in my eyes, is a tool to help musicians describe ideas and sounds which can sometimes be abstract and difficult to describe to others.
+It can also act as a framework to help you create your own music, whether it's composed prior to performance or improvised.
 .NH 2
 The Major Scale
+.PP
+The major scale is a definition of the intervals between seven notes (the eighth being the same as the first except an octave higher).
+The essence of the major scale is best demonstrated to an unfamiliar listener by playing the notes of scale in ascending order and then descending order (going up and down the scale).
 .NH 2
 Diatonic Chords
 .NH 2
