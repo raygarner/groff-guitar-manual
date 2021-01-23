@@ -316,6 +316,35 @@ This can add extra melodic interest since there is now a line for a listener to 
 Finger-style playing lends its-self nicely to playing broken chords since you can assign a finger to each note of the chord, but it can be done just fine with a flat pick too.
 .NH 2
 Chord Melodies
+.PP
+A
+.I "chord melody"
+is a sequence of chords such that the highest note in each chord is carrying a melody.
+This means that chord melodies are a medium for
+.I harmony ,
+.I rhythm
+and
+.I melody.
+Because chord melodies provide so much musical content for a listener to appreciate, they are mostly played by a solo guitarist with no extra accompaniment.
+.PP
+Jazz standards (iconic compositions with catchy melodies often reworked by jazz musicians) are often arranged as chord melodies for the guitar where the original melody will be heard in the highest note of each chord that is played.
+It is important that it is the highest note of each chord which carries the melody because it is this note which the listeners ear is drawn to most.
+.PP
+A good idea when playing chord melodies, would be to think of each note in the chord as a single pitch being sung by a vocalist.
+This way, you will begin to appreciate the
+.I "voice leading"
+in the chords more.
+If a chord progression is considered to have nice voice leading, then it means that the melodies of all the `voices' making up the chords are elegant and musical in their own right.
+.PP
+With chord melodies, it is not the case that the entire chord shape must change every time the next note in the melody comes around.
+It is enough that the highest note changes in order to produce the melody sometimes.
+To play chord melodies, you will probably want to adopt a hybrid or finger picking style because of the high level of independence they offer to each of the voices (strings).
+.PP
+Some players who played great chord melodies are
+.B "Ted Greene" ,
+.B "Lenny Breau"
+and
+.B "Chet Atkins" .
 .NH 1
 Fundamental Theory
 .NH 2
