@@ -40,6 +40,8 @@ Fundamental Theory
 .XA 2
     Diatonic Chords
 .XA 2
+    Playing Outside of the Key
+.XA 2
     The Blues
 .XE
 \"9\*{th\*} January 2021
@@ -388,7 +390,49 @@ must be established by sufficiently exposing the listener the notes and interval
 It should be noted that even though musicians will use terms like `first', `second' and `third' when referring to notes in a scale that the seven notes of the major scale repeat for ever and have no start or end (although you could consider it ending when the pitch leaves human hearing range).
 .NH 2
 Modes of the Major Scale
+.PP
+As you can probably tell, not all music has the same `feel' of the major scale.
+That is because some music is built off of other scales instead of these major scales.
+However, most of the other scales that are used in Western music are related to the major scale; they are a
+.I mode
+of it.
+.PP
+There are seven modes of the major scale, corresponding with the seven notes in the major scale.
+They are as follows:
+.I ionian 
+(standard major scale),
+.I dorian ,
+.I phrygian ,
+.I lydian ,
+.I mixolydian ,
+.I aeolian 
+and 
+.I locrian .
+Don't worry too much about the names, what's more important is the feel/character of each mode.
+.PP
+The diagram below describes the relationship between the intervals of each mode of the major scale.
+As you can see, each mode is the same as the major scale except it starts and ends in a different place:
+.PSPIC -C img/modes/intervals.eps 2.8i
+.PP
+The diagram below reinforces this idea by showing how each of the notes in each mode relate to each other.
+For example, in a given ionian key, the second note is the same as the first note in the dorian of the
+.I relative
+key:
+.PSPIC -C img/modes/notes.eps 2.8i
+.PP
+This means that C ionian contains all of the same notes that D dorian does because D is the second in C ionian.
+.PP
+The next diagram beneath shows all of the notes in C ionian (C major scale) with the root notes circled:
+.PSPIC -C img/modes/fretboard.eps 2i
+.PP
+Note that these are also all of the exact same notes in D dorian, E phrygian, F lydian, G mixolydian, A aeolian and B locrian (although they would have their respective root notes highlighted instead).
+.PP
+To see the notes for different keys, you can shift up/down all of the highlighted notes keeping the intervals intact.
+You can see that the pattern of intervals is repeated with each occurrence of a root note.
+Try playing the scale on only one string to help understand this.
 .NH 2
 Diatonic Chords
+.NH 2
+Playing Outside of the Key
 .NH 2
 The Blues
