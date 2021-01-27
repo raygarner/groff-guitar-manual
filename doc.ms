@@ -475,7 +475,20 @@ The diminished chord is characterised by it's flattened fifth (an interval of th
 .PP
 Changing the tonality of any of the chord from the last diagram would mean that they are no longer diatonic (they use notes which are not from the scale of the key signature).
 .NH 2
-Triad Inversions
+Chord Inversions
+.PP
+A
+.I "chord inversion"
+is when a note other than the root/first note of the chord is voiced in the bass (the lowest note of the chord).
+This can happen because notes of the chord can be put in any order and it will still be valid to refer to it by the same name.
+For example, if C, E and G were played at once it would form a C major chord.
+If C, G and E were played at once (in that order of ascending pitch) it would still be considered a C major chord, just a different
+.I voicing.
+If it is the root note in the bass, then the chord is in root position.
+If the third is in the bass, then the chord is said to be in
+.I "first inversion"
+and if the fifth is in the bass then the chord is said to be in
+.I "second inversion" .
 .NH 2
 Chord Extensions
 .NH 2
