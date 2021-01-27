@@ -422,7 +422,7 @@ key:
 .PP
 This means that C ionian contains all of the same notes that D dorian does because D is the second in C ionian.
 .PP
-The next diagram beneath shows all of the notes in C ionian (C major scale) with the root notes circled:
+The next diagram shows all of the notes in C ionian (C major scale) with the root notes circled:
 .PSPIC -C img/modes/fretboard.eps 2i
 .PP
 Note that these are also all of the exact same notes in D dorian, E phrygian, F lydian, G mixolydian, A aeolian and B locrian (although they would have their respective root notes highlighted instead).
@@ -432,7 +432,55 @@ You can see that the pattern of intervals is repeated with each occurrence of a 
 Try playing the scale on only one string to help understand this.
 .NH 2
 Diatonic Chords
+.PP
+A
+.I chord
+is formed when multiple notes are played together at once.
+.I Diatonic
+chords are chords which are made up of notes from a scale, like the C major scale for example (shown on the fretboard diagram).
+.PP
+The C major scale is normally the scale that is first introduced to new musicians because it has no sharps or flats: its notes are C, D, E, F, G, A and B.
+Recall that in the context of this scale, C is the
+.I root
+(first) note of the scale and therefore the most important note of the scale.
+.PP
+For centuries, the main building block for western harmony has been the
+.I triad.
+This is a chord comprised of a
+.I first ,
+.I third
+and
+.I fifth .
+Thinking in terms of ascending scales, this means a triad is built with the formula: note, miss a note, note, miss a note, note (with the lowest note played been the root/first of the chord).
+This principle tells us that each note of the major scale has a corresponding triad where
+the triad for the first note is called chord one (I), the triad for the second note is called chord two (II) and so on.
+.PP
+By this point you may realise that not all diatonic triads in one key will have the same character because despite always being built the same way from the scale, the intervals in each chord will not be the same.
+This is because the intervals in the scale are not all the same (recall that for a major scale they are TTSTTTS).
+The next diagram shows how the 
+.I tonality 
+differs for each triad chord of the major scale:
+.PSPIC -C img/chords/chordtonality.eps 2.8i
+.PP
+The tonality of a chord describes it's character and is defined by the intervals between the notes which make it up.
+The difference between
+.I major
+and
+.I minor
+tonality is defined by the interval between the first and the third notes.
+For a major chord, the interval is two tones (as it is between the first note of the major scale and the third note of the major scale) and for a minor chord it is one and a half tones (the third is
+.I flattened
+by one semitone).
+The diminished chord is characterised by it's flattened fifth (an interval of three tones instead of three and a half as it is between notes one and five of the major scale).
+.PP
+Changing the tonality of any of the chord from the last diagram would mean that they are no longer diatonic (they use notes which are not from the scale of the key signature).
+.NH 2
+Triad Inversions
+.NH 2
+Chord Extensions
 .NH 2
 Playing Outside of the Key
 .NH 2
 The Blues
+.NH 2
+Key Changes
