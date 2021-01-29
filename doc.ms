@@ -491,6 +491,33 @@ and if the fifth is in the bass then the chord is said to be in
 .I "second inversion" .
 .NH 2
 Chord Extensions
+.PP
+Notes one, three and five are normally considered the most important notes in any chord, but theoretically any note can be added to a chord.
+Some common chord
+.I extensions
+involve adding the sixth, seventh, ninth, eleventh and fourteenth.
+Bare in mind that these notes can be added in any combination and can also be
+.I sharpened
+(raised by one semitone)
+or 
+.I flattened
+(lowered by one semitone)
+to create a different sound.
+Of course, adding certain extensions may mean that the chord is no longer diatonic, but (like anything in music) this is fine when done in the right context.
+.PP
+Obviously on the guitar, chords are limited to six notes because there are only six string which you can play at once.
+This means that you will probably want to 
+.I omit
+certain notes of the chord so that you can add an extension.
+Quite often the fifth of the chord can be omitted to accommodate an extension, and this will give the chord a more `airy' and `ambiguous' quality.
+If you omit the third, then the tonality of the chord may become ambiguous unless you have a sixth in the chord, which indicates some tonality like the third does.
+The third and the sixth are both good tonality indicators because you can have a major or minor version of each: that is the interval between the first and the third/sixth notes of a major scale and a minor scale. 
+.PP
+A major seventh refers to the interval between the first and seventh notes in a major scale and a dominant seventh refers to the interval between the first and a flattened major seventh.
+Note that a dominant seventh note can be used to diatonically extend chord five of the major scale.
+.PP
+You should experiment with a wide range of diatonic and non-diatonic chord extensions to find what you like the sound of.
+The topic of chord extensions is huge and what is written here is just a taster.
 .NH 2
 Playing Outside of the Key
 .NH 2
