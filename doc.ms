@@ -15,33 +15,37 @@ Playing Techniques
     Finger Style
 .XA 4
     Hybrid Picking
-.XA 2
+.XA 4
     Legato
-.XA 2
+.XA 4
+    Harmonics
+.XA 5
     Vibrato
-.XA 2
+.XA 6
     Pitch Bends
-.XA 2
-    Palm Muting
-.XA 2
+.XA 6
 Guitar Textures
-.XA 2
+.XA 6
     Single Note Melodies
-.XA 2
+.XA 7
     Chords
-.XA 2
+.XA 7
     Chord Melodies
-.XA 2
+.XA 8
 Fundamental Theory
-.XA 2
+.XA 8
     The Major Scale
-.XA 2
+.XA 8
     Modes of the Major Scale
-.XA 2
+.XA 9
     Diatonic Chords
-.XA 2
+.XA 10
+    Chord Inversions
+.XA 10
+    Chord Extensions
+.XA 11
     Playing Outside of the Key
-.XA 2
+.XA 11
     The Blues
 .XE
 \"9\*{th\*} January 2021
@@ -556,11 +560,4 @@ Examples of what quintessential electric guitar blues soloing should sound like 
 by Stevie Ray Vaughan and
 .B "Red House"
 by Jimi Hendrix.
-.NH 2
-Key Changes
-.IP 
-pivot chords
-.IP 
-unprepared
-.IP 
-scale to use changes
+.PSPIC -C img/blues/crossroads.eps 2.8i
