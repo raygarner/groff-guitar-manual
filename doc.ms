@@ -520,7 +520,47 @@ You should experiment with a wide range of diatonic and non-diatonic chord exten
 The topic of chord extensions is huge and what is written here is just a taster.
 .NH 2
 Playing Outside of the Key
+.PP
+This section will discuss using notes which are not in the scale corresponding with the key signature to play single note lead lines.
+Playing non-diatonic chords as mentioned earlier is another example of playing outside of the key (also known as playing chromatically).
+.PP
+When playing a solo or single note line, you can use notes which are not in the scale you are using to add `colour' to the melody.
+The most obvious example of this sound can be produced by picking a note which is not in the scale and then quickly sliding up one fret to a note which is in the scale to
+.I resolve
+it.
+.PP
+As with chord extensions, you need to experiment in order to understand the sounds which you enjoy and want to put in your own playing.
 .NH 2
 The Blues
+.PP
+Having a sound understanding of the blues will making learning to solo over jazz and rock chord progression much more intuitive.
+The essence of the blues is that the chord progression goes like I-IV-I-IV-I-V-IV-I where every chord is a major triad with a dominant seventh note added (this is known as a dominant seventh chord).
+The dominant seventh notes for chord I and IV of this progression are non-diatonic, if you are thinking of this chord progression in the context of the major scale.
+.PP
+Typically, blues music features expressive improvised solos over this chord progression which use colourful note choices to build melodies.
+The
+.I "blues scale"
+can be thought of as a modified natural minor scale (aeolian mode) where the second and sixth notes are removed.
+In addition to this, the flattened fifth note is also added to the scale and the fifth still remains too.
+The flattened fifth should be used with care just as if it is a chromatic out of key note like mentioned earlier, but it helps makes up the distinctive character of blues melodies.
+.PP
+When you are using this scale to solo over a blues progression, it will sound more melodic if you highlight the notes which make each chord in the progression unique.
+So over chord one, a common blues idea is to treat the third note of the blues scale as an out-of-key note and use it to slide/bend/hammer-on to the major third which is one fret above.
+This is because chord one has a major third and not a minor third, so playing a minor third over the top of it creates tension which is resolved when you move the pitch up to the major third.
+The same effect can and should be created when playing over the other chords by emphasising their respective thirds: the third of chord IV is a major sixth above note one in the blues scale and the third of chord V is a major seventh above note one of the blues scale.
+.PP
+Even knowing these rules, you will find that some notes create more tension than others (sometimes too much) but the essence of the blues (and to a lesser extent all music) is to create tension and then resolve it.
+The only way to learn to play this way is through experimentation and listening to others.
+Examples of what quintessential electric guitar blues soloing should sound like can be heard in the songs
+.B "Texas Flood"
+by Stevie Ray Vaughan and
+.B "Red House"
+by Jimi Hendrix.
 .NH 2
 Key Changes
+.IP 
+pivot chords
+.IP 
+unprepared
+.IP 
+scale to use changes
