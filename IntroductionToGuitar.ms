@@ -58,7 +58,7 @@ Fundamental Theory
 Playing Techniques
 .PP
 Playing techniques are ways in which you can manipulate the sound created by the guitar.
-This section will discuss a few of the most useful ones.
+This section will discuss a few of the most useful techniques.
 .NH 2 
 Flat Picking
 .PP
@@ -75,13 +75,13 @@ You may come across the terms
 .I "economy picking"
 and
 .I "strict picking"
-when exploring picking technique.
+when exploring picking techniques.
 These terms refer to the way in which you can combine up-strokes and down-strokes when playing a sequence of single notes across different strings.
 Strict picking refers to the style where a player will always employ a pattern of up, down, up, down etc.
 Economy picking refers to the style where a player will produce each note with an up/down stroke based on whether the string is above or below the string of the last note played.
 For example, a note on the B string will always be played with a down stroke if the previous note was played on the G string.
 .PP
-Economy picking is more energy efficient and allows for for dramatic
+Economy picking is more energy efficient and allows for dramatic
 .I "sweep picking"
 lines to be played.
 This technique is perhaps most clearly demonstrated by the playing of
@@ -92,7 +92,7 @@ This principle is put into practice most clearly by the acoustic guitar playing 
 .PP
 Neither technique is better or worse than the other, and it is worth experimenting thoroughly with both so that you can call upon either one when appropriate to do so.
 .PP
-One distinct virtue of the flat pick is that it allows for speedy single note lead lines to be played precisely- you probably will have heard this referred to as 
+One distinct virtue of the flat pick is that it allows for speedy single note lead lines to be played precisely. You probably will have heard this referred to as 
 .I shredding .
 Shredding
 is implemented by 
@@ -130,7 +130,7 @@ Finger Style
 Playing
 .I "finger style"
 means plucking the guitar strings with your right hand finger tips/nails.
-Typically, finger style guitarists will maximise efficiency by assigning one finger to one string as much as possible (obviously this is impossible to maintain 100% of the time unless you have 6 digits on your right hand).
+Typically, finger style guitarists will maximise efficiency by assigning one finger to one string as much as possible (obviously this is impossible to maintain 100% of the time unless you have 6 digits on your right hand!).
 .PP
 Finger style guitar mainly operates on the basis of resting each of your four fingers slightly beneath each string (but still touching) and plucking it by pulling your fingertip upwards towards your body.
 The finger nail, finger tip or a combination of both can be used to strike the string in order to achieve different timbres from the guitar.
@@ -164,7 +164,7 @@ and
 .PP
 One of the main advantages that finger picking provides is that it is relatively easy to
 .I arpeggiate 
-chords- that is to play the notes of the chord in sequence one after the other instead of playing them all at the same time.
+chords (to play the notes of the chord in sequence one after the other instead of playing them all at the same time).
 Unlike with flat picking, skipping strings requires no extra effort when arpeggating chords because you should already have a finger ready to pluck any strings you intend to use in advance.
 .PSPIC -C img/lenny.eps 2.4i
 .NH 2
@@ -231,7 +231,7 @@ Vibrato
 .PP
 .I Vibrato
 is where you repeatedly lightly alter the pitch of a note while it is being held.
-The pitch difference is not enough that it sounds like a different note altogether and is used to add `expression' to a note- it adds another layer of character depth to the note.
+The pitch difference is not enough that it sounds like a different note altogether and is used to add `expression' to a note by giving it another layer of character depth to the note.
 Usually on the guitar, you apply vibrato to a note by bending the string slightly up and down to alter the pitch and reset it at a given rate.
 The string is bent by using your fretting hand like a lever and pushing the string so that it slides on the fretboard on one fret with your finger tip.
 .PP
@@ -263,7 +263,7 @@ It is very similar to a sliding
 effect.
 .PP
 Probably the most common pitch bends are when players do it to make the note's pitch raise by one tone (two frets).
-The typical way to bend a guitar string this is much is to fret the note using your third finger and also apply pressure using your first and second fingers behind the note on the fretboard.
+The typical way to bend a guitar string is to fret the note using your third finger and also apply pressure using your first and second fingers behind the note on the fretboard.
 You can then use a rotational motion with your wrist to bend the string with minimal effort providing that you have a solid connection with the string.
 .PP
 You will hear a lot of pitch bends from players who have a `bluesy' style.
@@ -291,7 +291,7 @@ It is rare that you will hear a guitar playing just single note melodies with no
 Solos are a staple in jazz and blues and they are normally improvised (see chapter 3).
 .PP
 As well as from melody, single note lines heavily depend up on the player using interesting and engaging rhythms in order to make the part sound musically satisfying.
-Single note lines are a environment for 
+Single note lines are an environment for 
 .I rhythm 
 and 
 .I melody 
@@ -310,7 +310,7 @@ Generally, when people refer to just `playing chords' on the guitar they mean us
 and 
 .I rhythm ,
 with little to no regard for melody.
-This is because playing chords in this way is most often used to accompany a vocalist who will be singing the main melody which a listeners ear is drawn too.
+This is because playing chords in this way is most often used to accompany a vocalist who will be singing the main melody which a listener's ear is drawn too.
 Playing chords with no engaging melodic content does not lend it-self to solo performance, since for the majority of listeners it is the melody which resonates with them.
 .PP
 Chords on the guitar are implemented by fretting notes on different strings and playing them at the same time, either by strumming (with or without a pick) or plucking with fingers.
@@ -359,7 +359,7 @@ and
 Fundamental Theory
 .PP
 Music theory, in my eyes, is a tool to help musicians describe ideas and sounds which can sometimes be abstract and difficult to describe to others.
-It can also act as a framework to help you create your own music, whether it's composed prior to performance or improvised.
+It can also act as a framework to help you create your own music, whether it is composed prior to performance or improvised.
 .NH 2
 The Major Scale
 .PP
@@ -389,7 +389,7 @@ The most important note of any scale is the first, also known as the
 This is the note which is most prominent to a listener, and also the note which other notes will pull towards because there is the least tension in the sound when it is the root note being heard.
 Of course, for these concepts to be true the
 .I key
-must be established by sufficiently exposing the listener the notes and intervals which the melody is based upon.
+must be established by sufficiently exposing the notes and intervals which the melody is based upon to the listener.
 .PP
 It should be noted that even though musicians will use terms like `first', `second' and `third' when referring to notes in a scale that the seven notes of the major scale repeat for ever and have no start or end (although you could consider it ending when the pitch leaves human hearing range).
 .NH 2
@@ -412,7 +412,7 @@ They are as follows:
 .I aeolian 
 and 
 .I locrian .
-Don't worry too much about the names, what's more important is the feel/character of each mode.
+Don't worry too much about the names, what is more important is the feel/character of each mode.
 .PP
 The diagram below describes the relationship between the intervals of each mode of the major scale.
 As you can see, each mode is the same as the major scale except it starts and ends in a different place:
@@ -443,7 +443,7 @@ is formed when multiple notes are played together at once.
 .I Diatonic
 chords are chords which are made up of notes from a scale, like the C major scale for example (shown on the fretboard diagram).
 .PP
-The C major scale is normally the scale that is first introduced to new musicians because it has no sharps or flats: its notes are C, D, E, F, G, A and B.
+The C major scale is normally the scale that is first introduced to new musicians because it has no sharps or flats: it's notes are C, D, E, F, G, A and B.
 Recall that in the context of this scale, C is the
 .I root
 (first) note of the scale and therefore the most important note of the scale.
@@ -455,7 +455,7 @@ This is a chord comprised of a
 .I third
 and
 .I fifth .
-Thinking in terms of ascending scales, this means a triad is built with the formula: note, miss a note, note, miss a note, note (with the lowest note played been the root/first of the chord).
+Thinking in terms of ascending scales, this means a triad is built with the formula: note, miss a note, note, miss a note, note (with the lowest note played being the root/first of the chord).
 This principle tells us that each note of the major scale has a corresponding triad where
 the triad for the first note is called chord one (I), the triad for the second note is called chord two (II) and so on.
 .PP
